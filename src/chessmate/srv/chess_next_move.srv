@@ -1,0 +1,7 @@
+---
+# 0 if not valid, 1 for valid
+int8 is_state_valid
+string from_square
+string to_square
+string fen_string
+string game_state

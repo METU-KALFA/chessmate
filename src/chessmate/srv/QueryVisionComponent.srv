@@ -1,0 +1,5 @@
+string query_type
+string last_state_fen_string
+---
+int32 return_code
+string movement_in_fen
