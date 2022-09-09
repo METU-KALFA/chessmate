@@ -1,0 +1,2 @@
+Few things to do:
+  - dataset collection and labelling
