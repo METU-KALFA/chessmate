@@ -1,0 +1,1 @@
+python3 train.py --weights yolov7.pt --data "data/custom.yaml" --workers 8 --device 0 --batch-size 32 --img 1200 800 --cfg cfg/training/yolov7.yaml --name yolov7 --hyp data/hyp.scratch.p5.yaml --epochs

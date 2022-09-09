@@ -1,0 +1,1 @@
+python3 train.py --weights runs/train/yolov725/weights/best.pt --data "data/custom.yaml" --workers 2 --device 0 --batch-size 1 --img 1216 800 --cfg cfg/training/yolov7.yaml --name yolov7 --hyp data/hyp.scratch.p5.yaml --epochs 10
