@@ -1,4 +1,6 @@
 # ChessMate
+<hr>
+## Control
 
 First, make sure that franka_ros and moveit packages are sourced. Connect chesswatch and RealSense camera to the computer with usb. Make sure that camera is connected to a usb 3.2 port. The system requires stockfish engine. Its path must be specified in src/chessmate/scripts/vision/top_vision.py as STOCKFISH_PATH variable. Then run ./bash/launch_all.sh to start the system. This should open several chessmate nodes as different terminal tabs. Some of these tabs may immediately crash when a required software or hardware connection is missing. If the system is not working and you can not see any errors, it may be due to that.
 
