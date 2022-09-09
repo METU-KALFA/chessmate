@@ -1,0 +1,8 @@
+train: ../../data/train/
+test: ../../data/test/
+val: ../../data/val/
+#Classes
+nc: 7 # replace classes count 
+#classes names
+names: [  'chessboard', 'king', 'queen', 'pawn', 'bishop', 'rook', 'knight' ]
+# bishop, chessboard, king, knight, pawn, queen, rook
