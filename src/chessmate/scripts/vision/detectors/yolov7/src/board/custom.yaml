@@ -1,7 +1,0 @@
-train: ../../../../data/
-test: ../../../../data/
-val: ../../../../data/
-#Classes
-nc: 1 # replace classes count 
-#classes names
-names: [ 'chessboard']
