@@ -1,2 +1,3 @@
 Few things to do:
   - dataset collection and labelling
+  - comment out Claudia's codes
